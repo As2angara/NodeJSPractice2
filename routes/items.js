@@ -1,4 +1,4 @@
-const items = require('./data/menu-items');
+const items = require('../data/menu-items');
 const express = require('express');
 const router = express.Router();
 

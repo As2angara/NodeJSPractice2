@@ -1,4 +1,4 @@
-const categories = require('./data/menu-categories');
+const categories = require('../data/menu-categories');
 const express = require('express');
 const router = express.Router();
 
